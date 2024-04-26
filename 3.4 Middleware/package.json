@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index3.js"
+    "dev": "nodemon index4.js"
   },
   "keywords": [],
   "author": "rohitkagankar",
